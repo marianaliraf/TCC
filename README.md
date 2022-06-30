@@ -17,4 +17,6 @@ Esse repositório contém os notebooks com os experimentos realizados, sendo:
 - variaveis_derivadas_saeb_BA:  Notebook com acriação de variáveis derivadas do questionário socioeconômico do aluno do SAEB da Bahia;
 - variaveis_derivadas_saeb_SE:  Notebook com acriação de variáveis derivadas do questionário socioeconômico de Sergipe.
 
+Além disso, contém o script de análise dos resultados e o dashboard para vizualizá-los.
+
 
