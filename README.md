@@ -1,7 +1,4 @@
-# TCC
-Trabalho de Conclusão do curso de Bacharelado em Sistemas de Informação - Universidade Federal de Sergipe
-
-Título: Mineração de Dados Educacionais: Um estudo sobre os principais fatores que influenciam o Índice de Educação da Básica (IDEB)
+# Projeto em Mineração de Dados Educacionais: Um estudo sobre os principais fatores que influenciam o Índice de Educação da Básica (IDEB)
 
 O estudo consistiu na aplicação de técnicas de seleção de atributos e algoritmos supervisionados a uma amostra de dados educacionais de três estados do Nordeste (alunos do 3° ano do ensino médio do ano de 2017 de Sergipe, Bahia e Alagoas), a fim de encontrar as variáveis que mais impactam na nota do Ideb. Para isso a amostra de dados contém informações socioecômicas dos estudantes, estrutura física das escolas e situação de trabalho dos professores derivadas do Censo Escolar e Sistema de Avaliação da Educação Básica (SAEB).
 
